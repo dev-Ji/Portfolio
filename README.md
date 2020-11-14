@@ -18,7 +18,7 @@
 <hr>
 
 ### 프로젝트
-[점톡 (바로가기)](https://github.com/devYoooo/Jumtalk)
+[점톡 (바로가기)](https://github.com/dev-Ji/Jumtalk)
 
 ### 개요
 * 개인사업자(점술가) 고객간의 예약시스템을 통한 1:1 채팅(비대면) 시스템을 이용해 서비스를 이용할 수 있도록 개발
@@ -33,7 +33,7 @@
 <hr>
 
 ### 프로젝트
-[OP_IT (바로가기)](https://github.com/devYoooo/OP_IT)
+[OP_IT (바로가기)](https://github.com/dev-Ji/OP_IT)
 
 ### 개요
 * 전 세계 1위 게임인 리그오브레전드의 전적 검색(ajax(json))과 커뮤니티 게시판(MVC Model2)을 간편하게 한 사이트에서 이용할 수 있도록 개발
