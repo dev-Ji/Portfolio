@@ -5,14 +5,14 @@
 <br><br>
 
 ### 프로젝트
-[RemoteH/W (바로가기)](https://github.com/devYoooo/RemoteHW)
+[RemoteH/W (바로가기)](https://github.com/dev-Ji/RemoteHW)
 
 ### 개요
 * 하나의 모바일 기기에서 컴퓨터에 원격 터치패드(마우스), 리모콘(PPT발표용), 무선스피커 기능까지 다양한 기능을 이용할 수 있도록 개발
 
 ### 공헌한 내용
 * 참여도: **20%**
-* 지인과의 프로젝트
+* 지인들과의 프로젝트
 * 안드로이드 XML, 자바 Swing 및 기본 로직
 <br>
 <hr>
