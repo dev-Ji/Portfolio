@@ -50,6 +50,24 @@
 <hr>
 
 
+### 프로젝트
+[KOREABOX (바로가기)](https://github.com/dev-Ji/KOREABOX)
+
+### 개요
+* 영화 예매를 위한 스프링3.0 MVC 기반 사이트입니다.
+
+### 공헌한 내용
+* 참여도: **50%**
+* 프로젝트 및 Github 셋팅 및 관리, 플로우차트 작성, 데이터베이스 설계 및 구축, ER다이어그램 작성, JSP MVC Model2 CRUD를 이용한 마이페이지, 게시판 수정파트, 프로그램 전체 예외처리 및 에러페이지 구현
+* GitHub
+* HTML, CSS, BootStrap, JavaScript, jQuery
+* Oracle(JDBC - connectionPool 이용), Apache Tomcat v9.0
+* 검색 결과 데이터 요청 및 출력: jQuery, Ajax, JSON
+* 결과를 얻어오기 위한 서버 액션: JAVA, Servlet, JSP, JSTL, EL, Spring3.0 MVC
+<br>
+<hr>
+
+
 <h2 align="center">코리아IT아카데미 이수 교육 내역</h2>
 
 ### 이수 과정명
