@@ -25,7 +25,10 @@
 
 ### 공헌한 내용
 * 참여도: **50%**
-* 프로젝트 셋팅 및 관리, 플로우차트 작성, 데이터베이스 설계 및 구축, ER다이어그램 작성, 멀티 Thread를 구현하여 실시간 채팅 프로그램 제작, 프로그램 전체 예외처리 및 에러페이지 구현
+* 프로젝트 셋팅 및 관리, 플로우차트 작성, 데이터베이스 설계 및 구축, ER다이어그램 작성
+* 멀티 Thread를 구현하여 실시간 채팅 프로그램 제작, 프로그램 전체 예외처리 및 에러페이지 구현
+
+### 스택
 * 화면 구성: Java Swing
 * DB액션 처리: JDBC 기본 Connection
 * 개발 Tool : Eclips, SQLDeveloper
@@ -40,7 +43,10 @@
 
 ### 공헌한 내용
 * 참여도: **60%**
-* 프로젝트 및 Github 셋팅 및 관리, 플로우차트 작성, 데이터베이스 설계 및 구축, ER다이어그램 작성, JSP MVC Model2 CRUD를 이용한 마이페이지, 게시판 수정파트, 프로그램 전체 예외처리 및 에러페이지 구현
+* 프로젝트 및 Github 셋팅 및 관리, 플로우차트 작성, 데이터베이스 설계 및 구축, ER다이어그램 작성
+* JSP MVC Model2 CRUD를 이용한 마이페이지, 게시판 수정파트, 프로그램 전체 예외처리 및 에러페이지 구현
+
+### 스택
 * GitHub
 * HTML, CSS, BootStrap, JavaScript, jQuery
 * Oracle(JDBC - connectionPool 이용), Apache Tomcat v9.0
@@ -58,7 +64,10 @@
 
 ### 공헌한 내용
 * 참여도: **50%**
-* 프로젝트 및 Github 셋팅 및 관리, 플로우차트 작성, 데이터베이스 설계 및 구축, ER다이어그램 작성, JSP MVC Model2 CRUD를 이용한 마이페이지, 게시판 수정파트, 프로그램 전체 예외처리 및 에러페이지 구현
+* 프로젝트 및 Github 셋팅 및 관리, 플로우차트 작성, 데이터베이스 설계 및 구축, ER다이어그램 작성
+* 예매(예약)시스템 구축(사용자, 관리자), 예약취소 시스템, 마이페이지, 프로그램 전체 예외처리 및 에러페이지(ex..404, 429..) 매핑
+
+### 스택
 * GitHub
 * HTML, CSS, BootStrap, JavaScript, jQuery
 * Oracle(JDBC - connectionPool 이용), Apache Tomcat v9.0
