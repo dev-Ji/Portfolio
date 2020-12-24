@@ -70,9 +70,25 @@
 ### 스택
 * GitHub
 * HTML, CSS, BootStrap, JavaScript, jQuery
-* Oracle(JDBC - connectionPool 이용), Apache Tomcat v9.0
+* Oracle(MyBatis), Apache Tomcat v9.0
 * 검색 결과 데이터 요청 및 출력: jQuery, Ajax, JSON
 * 결과를 얻어오기 위한 서버 액션: JAVA, Servlet, JSP, JSTL, EL, Spring3.0 MVC
+<br>
+<hr>
+
+
+### 프로젝트
+[반응형 웹 연습 (바로가기)](https://github.com/dev-Ji/Front-end)
+
+### 개요
+* 프론트엔드 연습(반응형 웹) 및 소셜 로그인 구현
+
+### 스택
+* HTML, CSS, BootStrap, JavaScript, jQuery
+
+### 개발툴
+* VSCode
+
 <br>
 <hr>
 
