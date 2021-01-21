@@ -5,33 +5,22 @@
 <br><br>
 
 ### 프로젝트
-[RemoteH/W (바로가기)](https://github.com/dev-Ji/RemoteHW)
+[KOREABOX (바로가기)](https://github.com/dev-Ji/KOREABOX)
 
 ### 개요
-* 하나의 모바일 기기에서 컴퓨터에 원격 터치패드(마우스), 리모콘(PPT발표용), 무선스피커 기능까지 다양한 기능을 이용할 수 있도록 개발
-
-### 공헌한 내용
-* 참여도: **20%**
-* 지인들과의 프로젝트
-* 안드로이드 XML, 자바 Swing 및 기본 로직
-<br>
-<hr>
-
-### 프로젝트
-[점톡 (바로가기)](https://github.com/dev-Ji/Jumtalk)
-
-### 개요
-* 개인사업자(점술가) 고객간의 예약시스템을 통한 1:1 채팅(비대면) 시스템을 이용해 서비스를 이용할 수 있도록 개발
+* 영화 예매를 위한 스프링3.0 MVC 기반 사이트입니다.
 
 ### 공헌한 내용
 * 참여도: **50%**
-* 프로젝트 셋팅 및 관리, 플로우차트 작성, 데이터베이스 설계 및 구축, ER다이어그램 작성
-* 멀티 Thread를 구현하여 실시간 채팅 프로그램 제작, 프로그램 전체 예외처리 및 에러페이지 구현
+* 프로젝트 및 Github 셋팅 및 관리, 플로우차트 작성, 데이터베이스 설계 및 구축, ER다이어그램 작성
+* 예매(예약)시스템 구축(사용자, 관리자), 예약취소 시스템, 마이페이지, 프로그램 전체 예외처리 및 에러페이지(ex..404, 429..) 매핑
 
 ### 스택
-* 화면 구성: Java Swing
-* DB액션 처리: JDBC 기본 Connection
-* 개발 Tool : Eclips, SQLDeveloper
+* GitHub
+* HTML, CSS, BootStrap, JavaScript, jQuery
+* Oracle(MyBatis), Apache Tomcat v9.0
+* 검색 결과 데이터 요청 및 출력: jQuery, Ajax, JSON
+* 결과를 얻어오기 위한 서버 액션: JAVA, Servlet, JSP, JSTL, EL, Spring3.0 MVC
 <br>
 <hr>
 
@@ -55,27 +44,37 @@
 <br>
 <hr>
 
-
 ### 프로젝트
-[KOREABOX (바로가기)](https://github.com/dev-Ji/KOREABOX)
+[점톡 (바로가기)](https://github.com/dev-Ji/Jumtalk)
 
 ### 개요
-* 영화 예매를 위한 스프링3.0 MVC 기반 사이트입니다.
+* 개인사업자(점술가) 고객간의 예약시스템을 통한 1:1 채팅(비대면) 시스템을 이용해 서비스를 이용할 수 있도록 개발
 
 ### 공헌한 내용
 * 참여도: **50%**
-* 프로젝트 및 Github 셋팅 및 관리, 플로우차트 작성, 데이터베이스 설계 및 구축, ER다이어그램 작성
-* 예매(예약)시스템 구축(사용자, 관리자), 예약취소 시스템, 마이페이지, 프로그램 전체 예외처리 및 에러페이지(ex..404, 429..) 매핑
+* 프로젝트 셋팅 및 관리, 플로우차트 작성, 데이터베이스 설계 및 구축, ER다이어그램 작성
+* 멀티 Thread를 구현하여 실시간 채팅 프로그램 제작, 프로그램 전체 예외처리 및 에러페이지 구현
 
 ### 스택
-* GitHub
-* HTML, CSS, BootStrap, JavaScript, jQuery
-* Oracle(MyBatis), Apache Tomcat v9.0
-* 검색 결과 데이터 요청 및 출력: jQuery, Ajax, JSON
-* 결과를 얻어오기 위한 서버 액션: JAVA, Servlet, JSP, JSTL, EL, Spring3.0 MVC
+* 화면 구성: Java Swing
+* DB액션 처리: JDBC 기본 Connection
+* 개발 Tool : Eclips, SQLDeveloper
 <br>
 <hr>
 
+
+### 프로젝트
+[RemoteH/W (바로가기)](https://github.com/dev-Ji/RemoteHW)
+
+### 개요
+* 하나의 모바일 기기에서 컴퓨터에 원격 터치패드(마우스), 리모콘(PPT발표용), 무선스피커 기능까지 다양한 기능을 이용할 수 있도록 개발
+
+### 공헌한 내용
+* 참여도: **20%**
+* 지인들과의 프로젝트
+* 안드로이드 XML, 자바 Swing 및 기본 로직
+<br>
+<hr>
 
 ### 프로젝트
 [반응형 웹 연습 (바로가기)](https://github.com/dev-Ji/Front-end)
