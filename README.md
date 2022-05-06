@@ -3,6 +3,7 @@
   🙍‍♂️  <strong>이지연</strong>   🙍‍♀️
 </p>
 <br><br>
+
 ### 프로젝트
 데상트 챗봇 (2022.04 ~ 2022.05)(2개월)
 
@@ -33,6 +34,7 @@
 * Git, Java, SpringBoot, kakaochatbot
 <br>
 <hr>
+
 ### 프로젝트
 엘레미스(2022.01 ~ 2022.02)(2개월)
 
@@ -49,6 +51,7 @@
 * Git, SpringBoot, Mybatis, Java, Mysql, Thymeleaf, JavaScript, Jquery
 <br>
 <hr>
+
 ### 프로젝트
 JT친애저축은행(2021.12 ~ )(진행중)
 
@@ -63,6 +66,7 @@ JT친애저축은행(2021.12 ~ )(진행중)
 * Git, Java, Mybatis, Docker, Mysql, JavaScript, JSP, jstl
 <br>
 <hr>
+
 ### 프로젝트
 JTI 이벤트(2021.10 ~ 2021.12)(2개월)
 
@@ -78,6 +82,7 @@ JTI 이벤트(2021.10 ~ 2021.12)(2개월)
 * Git, Java, SpringBoot, thymeleaf, JavaScript, Jquery
 <br>
 <hr>
+
 ### 프로젝트
 AJ냉장, AJ토탈 (2021.07 ~ )(진행중)
 
@@ -91,6 +96,7 @@ AJ냉장, AJ토탈 (2021.07 ~ )(진행중)
 * Git, Java, SpringBoot, thymeleaf, Jquery
 <br>
 <hr>
+
 ### 프로젝트
 Merck ( 2021.07 ~ )(진행중)
 
@@ -108,6 +114,7 @@ Merck ( 2021.07 ~ )(진행중)
 * Git, HTML, CSS, BootStrap, JavaScript, SpringBoot, Java, Mysql(MyBatis), Thymeleaf, Jquery
 <br>
 <hr>
+
 ### 프로젝트
 공차(2021.05 ~ 2021.06)(1.5개월)
 
